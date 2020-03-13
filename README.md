@@ -1,1 +1,1 @@
-# es6-components
+# practicing of some advanced es6 techniques
